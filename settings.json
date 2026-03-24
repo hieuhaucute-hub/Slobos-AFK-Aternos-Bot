@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "hiepnagi.aternos.me:30283",
+    "ip": "hiepnagi.aternos.me",
     "port":30283,
     "version": "",
     "try-creative": false
